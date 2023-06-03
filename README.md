@@ -1,4 +1,5 @@
-it's my Second repository. 
-THNAKYs
+<<<<<<< HEAD
+Its my First repository
+Thanks
 
-# FIrst_Repository
+# First_Repository
