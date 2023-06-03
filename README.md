@@ -1,1 +1,4 @@
-# FIrst_Repository
+Its my First repository
+Thanks
+
+# First_Repository
